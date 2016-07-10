@@ -1,0 +1,8 @@
+mSort(v,cont);
+heapSort(v,cont);
+bubble(v,cont);
+insercao(v,cont);
+quickSort(v,0,cont-1);
+		
+	
+		

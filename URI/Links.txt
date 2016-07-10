@@ -1,0 +1,3 @@
+https://pt.wikipedia.org/wiki/%C3%81rvore_bin%C3%A1ria
+http://www.ime.usp.br/~pf/algoritmos/aulas/bint.html
+http://www.ft.unicamp.br/liag/siteEd/definicao/arvore-binaria.php
